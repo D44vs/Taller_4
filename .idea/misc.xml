@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
-    <option name="sdkName" value="Python 3.12 (Taller_4)" />
+    <option name="sdkName" value="Python 3.13" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (Taller_4)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 virtualenv at C:\Users\57315\PycharmProjects\pythonProject\venv" project-jdk-type="Python SDK" />
 </project>
